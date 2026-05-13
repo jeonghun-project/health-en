@@ -1,19 +1,22 @@
-title: "Crypto & Tech Insights"
-email: contact@example.com
-description: >-
-  Premium insights on Cryptocurrency, Economy, and Technology.
-baseurl: ""
+title: "Health & Wellness EN"
+description: "Evidence-based health insights backed by peer-reviewed research."
+baseurl: "/health-en"
 url: "https://toreta.uk"
-
-# SEO & Permalinks (✅ 키워드 URL)
+lang: en
+locale: en_US
 permalink: /:year/:month/:day/:title/
-
-# Build settings
-theme: null # We are using custom layouts now
+future: true
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
 sass:
   style: compressed
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+markdown: kramdown
