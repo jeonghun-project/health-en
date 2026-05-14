@@ -4,7 +4,7 @@ date: "2026-05-13"
 description: "A 6,941-person Nature Communications study links poor sleep and social jet lag to lower gut microbiome diversity. What the gut-sleep axis means for your daily routine."
 tags: ["english", "global", "health", "sleep", "gut microbiome", "social jet lag", "microbiome"]
 author: "Health Research Desk"
-image: https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png
+image: https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png
 lang: en
 ---
 
@@ -24,7 +24,7 @@ In February 2026, researchers publishing in *Nature Communications* analyzed dat
 
 Of 137 bacterial species found to be statistically associated with sleep characteristics, 35.6% were independently validated in a second cohort. In science, replication is the gold standard, and this level of replication substantially strengthens the findings.
 
-![Sleep and Gut Microbiome: Key Numbers](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/stats_sleep_microbiome.png)
+![Sleep and Gut Microbiome: Key Numbers](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/stats_sleep_microbiome.png)
 
 ---
 
@@ -38,7 +38,7 @@ The relationship between sleep and gut bacteria is not a simple one-way street. 
 
 **The coffee-microbiome-sleep triangle**: Among the more striking findings from the Nature Communications study was the role of *Clostridia* species (UC5_1_1E11 and SGB14844) as mediators between coffee consumption and social jet lag. The mechanism appears to run through gut bacteria: coffee changes certain bacterial populations, those bacteria then influence circadian timing signals, which in turn affect when the body feels ready to sleep. It is a reminder that every dietary choice we make is also a microbiome decision.
 
-![Consistent Sleep vs. Social Jet Lag: What Happens to Your Gut](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/comparison_sleep_gut.png)
+![Consistent Sleep vs. Social Jet Lag: What Happens to Your Gut](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/comparison_sleep_gut.png)
 
 ---
 
@@ -67,7 +67,7 @@ Given the study's finding that certain gut bacteria mediate the relationship bet
 **3. Protect your gut bacteria with fermented and fiber-rich foods.**
 *Lactobacillus* and *Bifidobacterium* — the bacteria most strongly linked to sleep-supporting neurotransmitter production — are found in fermented foods (yogurt, kefir, kimchi, miso) and thrive on dietary fiber. A 2024 study in *Scientific Reports* found that *Bifidobacterium longum* 1714 supplementation improved sleep quality in healthy adults in a randomized, double-blind, placebo-controlled trial. Diet cannot fully compensate for chronic sleep deprivation, but it can help maintain the bacterial populations most relevant to sleep regulation.
 
-![The Gut-Sleep Feedback Loop](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/flow_gut_sleep_mechanism.png)
+![The Gut-Sleep Feedback Loop](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/flow_gut_sleep_mechanism.png)
 
 ---
 
