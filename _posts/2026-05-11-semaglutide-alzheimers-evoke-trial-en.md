@@ -4,7 +4,7 @@ date: "2026-05-11"
 description: "The EVOKE and EVOKE+ Phase 3 trials (3,808 patients, The Lancet, November 2025) found that oral semaglutide did not slow Alzheimer's cognitive decline despite improving inflammatory biomarkers. Here's what the results mean — and what still might work."
 tags: ["Alzheimer's disease", "semaglutide", "GLP-1", "EVOKE trial", "dementia prevention", "clinical trial"]
 author: "Health Research Desk"
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-header.png"
 ---
 
 ## TL;DR
@@ -15,7 +15,7 @@ image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main
 
 ---
 
-![EVOKE Trial Key Numbers](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-stats.png)
+![EVOKE Trial Key Numbers](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-stats.png)
 
 ---
 
@@ -41,7 +41,7 @@ The results, in the study's own terms: EVOKE reported a difference of –0.06 be
 
 ---
 
-![Semaglutide vs Liraglutide in Alzheimer's: Different Results](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-comparison.png)
+![Semaglutide vs Liraglutide in Alzheimer's: Different Results](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-comparison.png)
 
 ---
 
@@ -71,7 +71,7 @@ Proposed explanations include differences in blood-brain barrier penetration, di
 
 ---
 
-![GLP-1 to Brain: Where the Pathway Breaks Down](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-flow.png)
+![GLP-1 to Brain: Where the Pathway Breaks Down](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-flow.png)
 
 ---
 
