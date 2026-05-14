@@ -3,7 +3,7 @@ title: "Daily Coffee Drinkers Have Worse Memory Than Non-Drinkers — But Decaf 
 date: "2026-05-10"
 description: "A April 2026 Nature Communications study found that habitual coffee drinkers (3–5 cups/day) show lower memory performance and higher impulsivity than non-drinkers — but decaffeinated coffee improved learning and memory. Here's what the gut microbiome has to do with it."
 tags: ["coffee memory", "decaf benefits", "gut microbiome coffee", "coffee cognition", "gut brain axis", "polyphenols", "coffee health"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-header.png"
 ---
 
 ## TL;DR
@@ -27,7 +27,7 @@ This does not mean coffee is harmful. But it does suggest that what coffee gives
 
 ## What the Study Found: Gut Bacteria as the Missing Link
 
-![Coffee microbiome key statistics](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-stats_coffee_microbiome.png)
+![Coffee microbiome key statistics](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-stats_coffee_microbiome.png)
 
 The study's central hypothesis was that coffee influences cognition and mood not just through direct caffeine pharmacology, but through its effects on the gut microbiome — the trillions of bacteria living in the digestive tract that communicate with the brain via the gut-brain axis.
 
@@ -41,7 +41,7 @@ The study's central hypothesis was that coffee influences cognition and mood not
 
 ## The Decaf Paradox: Better for Memory Than Regular Coffee
 
-![Caffeinated vs Decaf effects comparison](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-comparison_caffeine_decaf.png)
+![Caffeinated vs Decaf effects comparison](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-comparison_caffeine_decaf.png)
 
 The most counterintuitive finding in the study concerns decaffeinated coffee. When the researchers examined the separate effects of caffeinated versus decaf:
 
@@ -64,7 +64,7 @@ Current evidence indicates this is a plausible mechanism, but the small sample s
 
 ## The Reversibility Finding: Two Weeks Changes Everything
 
-![Coffee-gut-brain 4-step pathway flow](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-flow_coffee_gut_brain.png)
+![Coffee-gut-brain 4-step pathway flow](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-10-coffee-memory-decaf-gut-microbiome-flow_coffee_gut_brain.png)
 
 Perhaps the most practically useful finding concerns reversibility. After two weeks of complete coffee abstinence, the researchers observed that the microbiome changes associated with habitual coffee consumption **largely reversed**. When coffee was reintroduced, the changes reappeared — and decaffeinated coffee produced the same reversal and reappearance pattern.
 
