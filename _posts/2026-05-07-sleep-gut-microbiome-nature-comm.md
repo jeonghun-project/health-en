@@ -3,7 +3,7 @@ title: "Your Gut Is Running Your Sleep Schedule, New Study of 6,941 People Finds
 date: "2026-05-07"
 description: "A landmark 2026 Nature Communications study shows gut microbiome diversity strongly predicts sleep quality, chronotype, and social jet lag — and points to practical dietary interventions."
 tags: ["sleep", "gut microbiome", "gut-brain axis", "social jet lag", "probiotics", "sleep quality", "nutrition"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-07-sleep-gut-microbiome-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-07-sleep-gut-microbiome-header.png"
 author: "Health Research Desk"
 ---
 
@@ -15,7 +15,7 @@ author: "Health Research Desk"
 
 ---
 
-![Header image](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-07-sleep-gut-microbiome-header.png)
+![Header image](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-07-sleep-gut-microbiome-header.png)
 
 ## When You Can't Sleep, Your Gut May Already Know Why
 
@@ -29,7 +29,7 @@ The findings add significant weight to the gut-brain axis hypothesis — the ide
 
 ## What the Data Actually Shows
 
-![Key statistics infographic](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-07-sleep-gut-microbiome-stats.png)
+![Key statistics infographic](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-07-sleep-gut-microbiome-stats.png)
 
 The study drew participants from the Lifelines Dutch Microbiome Project: 6,941 adults with a mean age of 51 years (SD 11.55), 59.4% female, mean BMI 26. Sleep was assessed using validated instruments — the Pittsburgh Sleep Quality Index (PSQI), the Epworth Sleepiness Scale (ESS), and the Munich ChronoType Questionnaire (MCTQ).
 
@@ -47,7 +47,7 @@ One particularly striking finding: specific Clostridia species (UC5_1_1E11 and S
 
 ## The Biology: How Gut Bacteria Talk to Your Brain at Night
 
-![Gut-Brain Axis mechanism flow](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-07-sleep-gut-microbiome-flow.png)
+![Gut-Brain Axis mechanism flow](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-07-sleep-gut-microbiome-flow.png)
 
 Understanding why this connection exists requires a brief tour of the gut-brain axis — the bidirectional communication network linking your digestive system to your central nervous system via the vagus nerve, hormonal signals, and immune pathways.
 
@@ -63,7 +63,7 @@ Understanding why this connection exists requires a brief tour of the gut-brain 
 
 ## The Comparison: What Good and Poor Sleepers' Guts Look Like
 
-![Gut microbiome comparison infographic](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-07-sleep-gut-microbiome-comparison.png)
+![Gut microbiome comparison infographic](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-07-sleep-gut-microbiome-comparison.png)
 
 The gut microbiome profile associated with good sleep is strikingly different from that of poor sleepers. Good sleepers tend to have higher microbial diversity, more Faecalibacterium and Lactobacillus, greater SCFA production, and lower levels of inflammatory bacteria. Poor sleepers show the inverse: depleted diversity, reduced beneficial species, and enriched inflammatory taxa.
 
