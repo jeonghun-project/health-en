@@ -5,7 +5,7 @@ description: "A landmark Nature Medicine study of 18,701 people across 34 countr
 tags: ["english", "global", "health", "brain aging", "air pollution dementia", "exposome", "PM2.5 cognition", "dementia prevention", "Nature Medicine"]
 ---
 
-![Environmental factors and brain aging — where you live shapes how your brain ages](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-header.png)
+![Environmental factors and brain aging — where you live shapes how your brain ages](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-header.png)
 
 ## TL;DR
 
@@ -27,7 +27,7 @@ The results were stark. When the full exposome was modeled together, it explaine
 
 ## Two Pathways to an Older Brain
 
-![Physical vs. Social Exposome: Two Pathways to Accelerated Brain Aging](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-section_comparison.png)
+![Physical vs. Social Exposome: Two Pathways to Accelerated Brain Aging](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-section_comparison.png)
 
 The study's architecture reveals a nuanced two-track mechanism.
 
@@ -41,7 +41,7 @@ Both pathways were validated cross-sectionally and longitudinally, remaining sig
 
 ## The Numbers Behind the Claim
 
-![Key Statistics: Brain Aging, Air Pollution, and Population Health](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-section_stat.png)
+![Key Statistics: Brain Aging, Air Pollution, and Population Health](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-section_stat.png)
 
 The 15.5× multiplier for the combined exposome model is not the only striking number in this research. Several converging data points strengthen the picture:
 
