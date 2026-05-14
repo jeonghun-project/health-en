@@ -3,11 +3,11 @@ title: "Same BMI, 89 Times the Risk: A New AI Tool Is Exposing What Your Scale H
 date: "2026-05-03"
 description: "A Nature Medicine study of 200,000 people found that individuals with the same BMI can have wildly different disease risk profiles. OBSCORE, a new AI tool, predicts 18 obesity-related complications using 20 health markers — far outperforming BMI alone."
 tags: ["obesity risk", "BMI limitations", "OBSCORE", "metabolic health", "precision medicine", "obesity complications", "AI health tools"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png"
 author: "Health Research Desk"
 ---
 
-![OBSCORE: Beyond BMI for Obesity Risk Prediction](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png)
+![OBSCORE: Beyond BMI for Obesity Risk Prediction](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png)
 
 ## TL;DR
 
@@ -33,7 +33,7 @@ The result — an AI-driven risk stratification tool called **OBSCORE** — reve
 
 ## What OBSCORE Found: The Numbers Are Staggering
 
-![Key statistics from the OBSCORE study](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/stats_obscore_2026.png)
+![Key statistics from the OBSCORE study](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/stats_obscore_2026.png)
 
 The researchers stratified participants into risk quintiles using OBSCORE and measured 10-year outcomes. The gap between the top and bottom 20% of predicted risk is enormous:
 
@@ -70,7 +70,7 @@ The model was validated not only in the UK Biobank but also in independent popul
 
 ## The Metabolic Paradox: When "Normal BMI" Isn't Normal
 
-![MUNO vs MHO: The metabolic health paradox](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/comparison_muno_mho.png)
+![MUNO vs MHO: The metabolic health paradox](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/comparison_muno_mho.png)
 
 The OBSCORE findings amplify a paradox that metabolic researchers have documented for years: being classified as "obese" by BMI does not automatically mean being at high risk, and being "normal weight" does not mean being safe.
 
@@ -86,7 +86,7 @@ The implication is profound: **metabolic health markers matter more than the num
 
 ## The OBSCORE Risk Prediction Framework
 
-![How OBSCORE predicts obesity complication risk](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/flow_obscore_risk.png)
+![How OBSCORE predicts obesity complication risk](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/flow_obscore_risk.png)
 
 OBSCORE represents a shift from single-metric screening to multi-dimensional precision risk assessment. The model works by:
 
