@@ -3,7 +3,7 @@ title: "Your BMI Is Lying to You — A New AI Tool Predicts 18 Disease Risks BMI
 date: "2026-05-05"
 description: "A 200,000-person Nature Medicine study reveals BMI fails to predict which obesity complications you'll develop. The OBSCORE tool uses 20 blood markers to predict 10-year risk across 18 conditions — with 89-fold differences between risk groups."
 tags: ["obesity complications", "OBSCORE", "BMI limitations", "diabetes prevention", "chronic kidney disease", "precision medicine", "health screening"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header-obscore-blood-panel.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header-obscore-blood-panel.png"
 author: "Health Desk"
 ---
 
@@ -25,7 +25,7 @@ What made the difference? Not their weight.
 
 On April 30, 2026, researchers from Queen Mary University of London published a landmark study in *Nature Medicine* that quantified exactly how misleading BMI can be as a clinical tool. Using data from approximately 200,000 adults with a BMI over 27, they developed and validated OBSCORE — an AI-powered risk stratification model that predicts the 10-year risk of 18 distinct obesity-related complications. The magnitude of the differences it reveals is striking.
 
-![OBSCORE key statistics](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/stats_obscore_2026.png)
+![OBSCORE key statistics](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/stats_obscore_2026.png)
 
 ---
 
@@ -57,7 +57,7 @@ The core variables include:
 
 From these inputs, OBSCORE generates individual risk predictions for 18 conditions: type 2 diabetes, chronic kidney disease, cardiovascular disease, fatty liver disease, sleep apnea, osteoarthritis, and more. Critically, the model was externally validated in both European-ancestry and non-European-ancestry cohorts, suggesting it generalizes across diverse populations.
 
-![BMI alone vs OBSCORE approach](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/comparison_bmi_vs_obscore.png)
+![BMI alone vs OBSCORE approach](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/comparison_bmi_vs_obscore.png)
 
 ---
 
@@ -73,7 +73,7 @@ The effect sizes in this study are not marginal. They suggest we may be systemat
 
 These are not incremental improvements over BMI. They represent a fundamentally different level of clinical information.
 
-![OBSCORE mechanism](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/flow_obscore_mechanism.png)
+![OBSCORE mechanism](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/flow_obscore_mechanism.png)
 
 ---
 
