@@ -3,7 +3,7 @@ title: "Sleeping In on Weekends May Be Changing Your Gut Bacteria, Study of 6,94
 date: "2026-05-09"
 description: "A large Nature Communications study links social jet lag — the mismatch between weekday and weekend sleep timing — to lower gut microbiome diversity. Here's what the science says and what you can do."
 tags: ["social jet lag", "gut microbiome", "sleep health", "gut bacteria", "circadian rhythm", "sleep science", "microbiome"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png"
 author: "Health Editorial Team"
 ---
 
@@ -15,7 +15,7 @@ author: "Health Editorial Team"
 
 ---
 
-![Sleep and Gut Microbiome Research](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png)
+![Sleep and Gut Microbiome Research](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png)
 
 ## Sleeping In on Weekends May Be Reshaping Your Gut
 
@@ -41,7 +41,7 @@ A difference of one hour or more is generally considered clinically significant.
 
 ## What the Research Found
 
-![Key Study Numbers](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/stats_sleep_microbiome.png)
+![Key Study Numbers](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/stats_sleep_microbiome.png)
 
 The study's main findings, published in *Nature Communications* (February 2026, Lifelines cohort, Netherlands):
 
@@ -67,7 +67,7 @@ One unexpected finding: coffee consumption appeared to partially mediate the rel
 
 ## The Biology: Why Sleep Timing Affects Gut Bacteria
 
-![How Social Jet Lag Disrupts the Gut](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/flow_sleep_gut_mechanism.png)
+![How Social Jet Lag Disrupts the Gut](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/flow_sleep_gut_mechanism.png)
 
 The gut doesn't just passively host bacteria. It has its own biological clock — called the intestinal circadian clock — that synchronizes with the brain's central pacemaker (the suprachiasmatic nucleus, or SCN) via hormonal and neural signals.
 
