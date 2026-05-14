@@ -3,7 +3,7 @@ title: "Your BMI Score Is Failing You. A 200,000-Person Study Just Proved It."
 date: "2026-05-06"
 description: "A landmark Nature Medicine study reveals people with the same BMI can have an 89-fold difference in kidney disease risk. Meet OBSCORE, the free AI tool that predicts your real obesity-related risk."
 tags: ["BMI", "obesity", "metabolic health", "OBSCORE", "Nature Medicine", "disease risk", "metabolic syndrome"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-header.png"
 ---
 
 ## TL;DR
@@ -24,7 +24,7 @@ That is the central finding of a landmark study published April 30, 2026 in *Nat
 
 The conclusion: **BMI is fundamentally inadequate as a standalone predictor of individual disease risk**.
 
-![OBSCORE Study Key Statistics](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-stats-obscore.png)
+![OBSCORE Study Key Statistics](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-stats-obscore.png)
 
 ---
 
@@ -45,7 +45,7 @@ The new *Nature Medicine* study makes the inadequacy concrete. A considerable pr
 
 Conversely, some individuals with BMI values in the obese range (≥30) were placed in low-risk categories because their metabolic environment was actually favorable.
 
-![BMI vs OBSCORE: A Comparison](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-comparison-bmi-vs-obscore.png)
+![BMI vs OBSCORE: A Comparison](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-comparison-bmi-vs-obscore.png)
 
 ---
 
@@ -92,7 +92,7 @@ The tool is available free of charge and requires no medical expertise to access
 
 This matters. The World Health Organization's standard BMI obesity threshold is 30 kg/m². Asian countries, including South Korea and Japan, apply lower cutoffs (≥25 for obesity) because research has shown that people of Asian descent tend to carry proportionally higher body fat and more visceral fat at the same BMI compared to people of European descent. Obesity-related metabolic complications can therefore appear at BMI values that Western charts would classify as "overweight" or even "normal weight."
 
-![Asian BMI Paradox Mechanism](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-flow-asian-bmi-paradox.png)
+![Asian BMI Paradox Mechanism](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-06-bmi-obscore-obesity-risk-beyond-bmi-flow-asian-bmi-paradox.png)
 
 A 2023 study published in *PMC* (PMC10454074) found that **19.3% of Korean adults** have "normal-weight obesity" — a BMI in the healthy range combined with excess body fat and elevated metabolic risk. This phenomenon makes risk tools like OBSCORE particularly relevant for East Asian populations.
 
