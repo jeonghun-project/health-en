@@ -3,7 +3,7 @@ title: "Cured of Tuberculosis Doesn't Mean Safe: A 185,000-Person Study Tracked 
 date: "2026-05-12"
 description: "A landmark Nature Medicine study followed 185,921 matched pairs for up to 14 years and found that TB survivors face a 1.77-times higher mortality risk even after successful treatment — from cancer, heart disease, diabetes, and more."
 tags: ["tuberculosis", "post-TB syndrome", "TB survivors", "infectious disease", "long-term health", "lung health", "global health"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-12-tb-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-12-tb-header.png"
 ---
 
 ## TL;DR
@@ -26,7 +26,7 @@ For those who completed treatment — the cured — the risk remained elevated a
 
 This is not a marginal statistical signal. It translates to **8,206 excess deaths per 100,000** among treated survivors, and **15,168 excess deaths per 100,000** in the broader diagnosed cohort.
 
-![Post-TB Long-term Mortality: Key Statistics](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-12-tb-stats.png)
+![Post-TB Long-term Mortality: Key Statistics](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-12-tb-stats.png)
 
 ---
 
@@ -52,7 +52,7 @@ The respiratory finding is intuitive: TB destroys lung tissue, and damaged lungs
 
 Researchers and clinicians are increasingly using the term **Post-Tuberculosis Syndrome** to describe the constellation of long-term health consequences that follow TB infection, regardless of treatment outcome.
 
-![Post-TB Long-term Risk Pathway](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-12-tb-flow.png)
+![Post-TB Long-term Risk Pathway](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-12-tb-flow.png)
 
 **Pulmonary fibrosis**: *Mycobacterium tuberculosis* triggers intense inflammatory destruction of lung tissue. As the immune system walls off infection sites, fibrous scar tissue forms — and unlike the bacteria, that scarring does not resolve with antibiotics. Reduced lung capacity and disrupted airway architecture can persist for decades, elevating risk for COPD, secondary infections, and lung cancer.
 
@@ -70,7 +70,7 @@ The implications of this research extend well beyond Brazil.
 
 South Korea presents one of the most striking examples of a high-income country that continues to carry a disproportionate TB burden.
 
-![Korea TB Burden vs. OECD Average](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-12-tb-comparison.png)
+![Korea TB Burden vs. OECD Average](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-12-tb-comparison.png)
 
 According to the WHO Global Tuberculosis Report 2024, South Korea's TB incidence rate stands at **38 per 100,000 population** — placing it **2nd among all 38 OECD member nations**. Its TB mortality rate ranks 5th. The average for comparable high-income OECD nations is roughly 7-10 per 100,000.
 
