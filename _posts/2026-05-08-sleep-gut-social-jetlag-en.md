@@ -4,10 +4,10 @@ date: "2026-05-08"
 description: "A February 2026 Nature Communications study of 6,941 people found that social jet lag and irregular sleep patterns directly damage gut microbiome diversity. Here's what the science means for you."
 tags: ["gut microbiome", "sleep health", "social jet lag", "gut health", "sleep deprivation", "microbiome"]
 author: "Health Research Desk"
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-header.png"
 ---
 
-![Poor Sleep Destroys Your Gut Bacteria](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-header.png)
+![Poor Sleep Destroys Your Gut Bacteria](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-header.png)
 
 ## TL;DR
 
@@ -25,7 +25,7 @@ A large-scale study published in *Nature Communications* in February 2026 found 
 
 The finding matters because gut microbiome diversity is not a niche concern. A diverse gut microbiome is consistently associated with better immune function, metabolic health, mental health, and — as this study highlights — sleep quality itself.
 
-![Korean Sleep Statistics and Key Study Figures](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-stats.png)
+![Korean Sleep Statistics and Key Study Figures](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-stats.png)
 
 ---
 
@@ -51,11 +51,11 @@ When sleep timing becomes irregular, gut bacteria lose their own circadian rhyth
 
 **Alpha Diversity Drops**: The study found a clear, statistically significant association: participants with worse sleep quality, later chronotypes, and greater social jet lag consistently showed lower gut microbiome alpha diversity compared to those with regular sleep patterns.
 
-![Social Jet Lag vs. Gut Health Comparison](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-comparison.png)
+![Social Jet Lag vs. Gut Health Comparison](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-comparison.png)
 
 The loop closes on itself. Poorer gut health impairs sleep quality, which further disrupts the microbiome, which further degrades sleep. This is the self-reinforcing cycle the 2026 research describes.
 
-![Sleep-Gut Vicious Cycle Pathway](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-flow.png)
+![Sleep-Gut Vicious Cycle Pathway](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-08-sleep-gut-social-jetlag-en-flow.png)
 
 ---
 
