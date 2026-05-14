@@ -3,7 +3,7 @@ title: "Where You Live May Be Aging Your Brain Faster Than a Dementia Diagnosis"
 date: "2026-05-01"
 description: "A Nature Medicine study of 18,701 people across 34 countries finds that combined air pollution and inequality accelerate brain aging up to 9.1 times more than clinical diagnoses like MCI or dementia alone."
 tags: ["brain health", "air pollution", "dementia prevention", "exposome", "environmental health", "brain aging", "public health"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-header.png"
 author: "Health Editorial Team"
 ---
 
@@ -35,7 +35,7 @@ This study introduced a different lens: the **exposome** — the total accumulat
 
 The result was unambiguous. Aggregated exposome models explained **15.5 times more variance** in brain aging than any single exposure factor (delta AIC: 2,034–3,127). Looking at just one variable — say, PM2.5 levels — means seeing roughly 6.5% of the picture.
 
-![](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-comparison-exposome-vs-single.png)
+![](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-comparison-exposome-vs-single.png)
 
 The implication is profound: policies addressing only one environmental factor at a time are structurally insufficient.
 
@@ -53,7 +53,7 @@ When both pathways operate simultaneously — when someone lives in a polluted e
 
 To be clear: this does not mean pollution and inequality "cause" dementia. The relationship is more nuanced. What it means is that the environmental context in which a person ages can amplify or attenuate neurological vulnerability to a degree that rivals, and sometimes exceeds, the impact of established clinical diagnoses.
 
-![](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-flow-brain-aging-pathways.png)
+![](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-flow-brain-aging-pathways.png)
 
 ---
 
@@ -112,7 +112,7 @@ The city you live in. The air your children breathe on the way to school. The di
 
 That is a different kind of finding. And it demands a different kind of response.
 
-![](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-stats-brain-aging-korea.png)
+![](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-stats-brain-aging-korea.png)
 
 ---
 
