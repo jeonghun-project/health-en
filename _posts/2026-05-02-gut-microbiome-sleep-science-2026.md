@@ -4,7 +4,7 @@ date: "2026-05-02"
 description: "A landmark Nature Communications study links gut microbiome diversity to sleep quality, chronotype, and social jet lag. Here's what the science says — and what you can do about it."
 tags: ["gut microbiome", "sleep science", "gut-brain axis", "probiotics", "sleep quality", "microbiota"]
 author: "Health Editor"
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png"
 ---
 
 ## TL;DR
@@ -23,7 +23,7 @@ A study published in *Nature Communications* in February 2026 challenges that as
 
 The conclusion was unambiguous: people with lower gut microbial alpha diversity reported worse sleep quality, later chronotypes, and greater social jet lag. Beta diversity — the variation in microbial communities between individuals — was also significantly associated with both sleep quality and social jet lag.
 
-![Key Numbers: Sleep and Gut Microbiome](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/stats_sleep_microbiome.png)
+![Key Numbers: Sleep and Gut Microbiome](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/stats_sleep_microbiome.png)
 
 ---
 
@@ -47,7 +47,7 @@ Approximately 90% of the body's serotonin is produced in the gut — not the bra
 
 Short-chain fatty acids (SCFAs) — butyrate, propionate, and acetate — produced when gut bacteria ferment dietary fiber, add another layer. SCFAs cross the blood-brain barrier, modulate the hypothalamic-pituitary-adrenal (HPA) axis, and appear to influence slow-wave sleep architecture. Animal studies have shown that germ-free mice (with no gut bacteria) show severely disrupted sleep cycling, and recolonization with specific bacterial strains partially restores normal patterns.
 
-![Gut-Brain Axis: How Microbiome Controls Sleep](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/flow_gut_brain_sleep.png)
+![Gut-Brain Axis: How Microbiome Controls Sleep](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/flow_gut_brain_sleep.png)
 
 The bidirectionality is what this 2026 study confirms at population scale. Sleep deprivation elevates cortisol and disrupts the intestinal epithelial barrier, allowing lipopolysaccharides from gram-negative bacteria to enter systemic circulation — a process known as "leaky gut." This triggers low-grade inflammation that, in turn, elevates pro-inflammatory cytokines including interleukin-6 and tumor necrosis factor, both of which are known to fragment sleep architecture. The feedback loop is self-reinforcing.
 
@@ -61,7 +61,7 @@ This is an observational cohort study. Even with longitudinal data providing dir
 
 The Lifelines cohort is Dutch, meaning the findings were generated in a population with specific dietary patterns (high dairy, relatively low fermented vegetable consumption compared to East Asian populations), genetic backgrounds, and light exposure profiles. Direct extrapolation to other populations requires caution.
 
-![Old Beliefs vs. New Science on Sleep](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/comparison_sleep_belief_vs_science.png)
+![Old Beliefs vs. New Science on Sleep](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/comparison_sleep_belief_vs_science.png)
 
 The specific bacterial species identified as significant — while validated in a second cohort — remain mechanistic hypotheses, not targets for clinical intervention. The question of whether deliberately supplementing those species via probiotics would improve sleep in a double-blind RCT is still open. A 2024 placebo-controlled probiotic trial reported a 69% improvement in self-reported sleep quality in the probiotic group relative to placebo, but the sample size was small enough that replication is warranted before drawing clinical conclusions.
 
