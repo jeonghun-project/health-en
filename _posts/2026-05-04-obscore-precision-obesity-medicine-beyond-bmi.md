@@ -3,7 +3,7 @@ title: "Beyond BMI: The AI Tool That Reveals Who Obesity Will Really Harm"
 date: "2026-05-04"
 description: "Two people share the same BMI — but one faces 57 times the cardiovascular mortality risk. A new Nature Medicine study introduces OBSCORE, an AI model that predicts 18 obesity-related complications using just 20 clinical features from 200,000 participants."
 tags: ["obesity", "BMI", "OBSCORE", "precision medicine", "cardiovascular risk", "Nature Medicine", "metabolic health", "health screening"]
-image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png"
+image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png"
 author: "Health Research Desk"
 ---
 
@@ -18,7 +18,7 @@ author: "Health Research Desk"
 
 ## The Same Weight, Vastly Different Futures
 
-![OBSCORE study header image](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/header.png)
+![OBSCORE study header image](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/header.png)
 
 Imagine two people walking into the same clinic on the same day. Both are 5'7" (170 cm) and weigh 172 lbs (78 kg). Their BMI: 27.0. Their doctor looks at the same number for both.
 
@@ -46,7 +46,7 @@ The OBSCORE study puts hard numbers on exactly how large these misclassification
 
 ## What OBSCORE Measures — and What It Predicts
 
-![OBSCORE key statistics card](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/section_stats_obscore.png)
+![OBSCORE key statistics card](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/section_stats_obscore.png)
 
 The OBSCORE model predicts an individual's **10-year risk across 18 obesity-related complications**:
 
@@ -83,7 +83,7 @@ Critically, the team validated OBSCORE in two independent external cohorts: the 
 
 ## The Counterintuitive Finding: BMI Rank ≠ Risk Rank
 
-![OBSCORE mechanism flow card](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/section_flow_obscore_mechanism.png)
+![OBSCORE mechanism flow card](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/section_flow_obscore_mechanism.png)
 
 The most striking result isn't the average prediction accuracy — it's what happens when you look at *who* sits in the highest-risk tier.
 
