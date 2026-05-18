@@ -1,8 +1,8 @@
 ---
-title: "Where You Live May Be Aging Your Brain Faster Than a Dementia Diagnosis"
+title: "Does Where You Live Age Your Brain? 18,000-Person Study Says Yes"
 date: "2026-05-01"
-description: "A Nature Medicine study of 18,701 people across 34 countries finds that combined air pollution and inequality accelerate brain aging up to 9.1 times more than clinical diagnoses like MCI or dementia alone."
-tags: ["brain health", "air pollution", "dementia prevention", "exposome", "environmental health", "brain aging", "public health"]
+description: "Air pollution, green space, and neighborhood noise may age your brain faster than genetics. A global study across 34 countries shows how your environment shapes dementia risk."
+tags: ["english", "health", "brain aging", "dementia prevention", "air pollution health effects", "Alzheimer risk factors", "brain health tips"]
 image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-ages-your-brain-exposome-study-header.png"
 author: "Health Editorial Team"
 ---
