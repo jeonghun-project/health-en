@@ -1,8 +1,8 @@
 ---
-title: "A Pill You Take Because Someone Else Got COVID — Inside SCORPIO-PEP"
+title: "Family Member Has COVID? This Pill Cut Infection Risk by 67%"
 date: "2026-05-18"
-description: "In NEJM, the SCORPIO-PEP phase 3 trial shows ensitrelvir cuts symptomatic COVID-19 in household contacts by 67%. The mechanism, the Paxlovid comparison, and what it actually changes."
-tags: ["english", "global", "health", "covid-19", "ensitrelvir", "scorpio-pep", "post-exposure prophylaxis", "3cl protease"]
+description: "A new antiviral taken within 5 days of COVID exposure reduced symptomatic infection by 67% in household contacts. How it works, and how it compares to Paxlovid."
+tags: ["english", "health", "COVID prevention pill", "COVID family exposure what to do", "COVID prophylaxis", "COVID treatment 2026", "antiviral for COVID"]
 author: "Health Research Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-18-a-pill-you-take-because-someone-else-got-covid-inside-scorpio-pep-en-featured.png
 lang: en
