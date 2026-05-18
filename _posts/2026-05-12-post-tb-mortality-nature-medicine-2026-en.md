@@ -1,8 +1,8 @@
 ---
-title: "Cured of Tuberculosis Doesn't Mean Safe: A 185,000-Person Study Tracked Survivors for 14 Years"
+title: "Cured of TB But Still at Risk — Why Survivors Face Double the Death Rate for 14 Years"
 date: "2026-05-12"
-description: "A landmark Nature Medicine study followed 185,921 matched pairs for up to 14 years and found that TB survivors face a 1.77-times higher mortality risk even after successful treatment — from cancer, heart disease, diabetes, and more."
-tags: ["tuberculosis", "post-TB syndrome", "TB survivors", "infectious disease", "long-term health", "lung health", "global health"]
+description: "A 185,000-person study reveals tuberculosis survivors face 2x mortality risk for over a decade after cure. What happens after TB treatment ends, and what doctors should monitor."
+tags: ["english", "health", "tuberculosis recovery", "TB side effects long term", "TB cure aftercare", "lung health after TB"]
 image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-12-tb-header.png"
 ---
 
