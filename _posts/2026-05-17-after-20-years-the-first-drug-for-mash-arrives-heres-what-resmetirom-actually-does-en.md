@@ -1,8 +1,8 @@
 ---
-title: "After 20 Years, the First Drug for MASH Arrives. Here's What Resmetirom Actually Does."
+title: "The First Fatty Liver Drug Just Got FDA Approved — After 20 Years of Nothing"
 date: "2026-05-17"
-description: "MAESTRO-NASH (NEJM 2024) showed resmetirom resolved MASH in 29.9% of patients and improved fibrosis in 25.9%. A look at the mechanism, the data, and who actually benefits."
-tags: ["english", "global", "health", "MASH", "MASLD", "resmetirom", "Rezdiffra", "liver"]
+description: "For two decades there was no approved medication for fatty liver disease. That just changed. What the new drug does, who it helps, and what to know."
+tags: ["english", "health", "fatty liver treatment", "fatty liver medication", "MASH treatment", "liver health", "fatty liver cure"]
 author: "Health Research Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-17-after-20-years-the-first-drug-for-mash-arrives-heres-what-resmetirom-actually-does-en-featured.png
 lang: en
