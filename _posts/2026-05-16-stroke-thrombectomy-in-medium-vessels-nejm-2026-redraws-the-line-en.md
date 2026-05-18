@@ -1,8 +1,8 @@
 ---
-title: "Stroke Thrombectomy in Medium Vessels: NEJM 2026 Redraws the Line"
+title: "Stroke Treatment Rules Just Changed — When Surgery Helps and When It Doesn't"
 date: "2026-05-16"
-description: "The ORIENTAL-MeVO trial (NEJM, May 2026; 564 patients across 48 Chinese centers) is the first positive randomized result for thrombectomy in medium-vessel occlusion stroke. The new threshold is NIHSS 8."
-tags: ["english", "global", "health", "stroke", "thrombectomy", "NEJM", "ORIENTAL-MeVO"]
+description: "A 564-patient trial rewrites which stroke patients benefit from clot removal surgery. The new cutoff could change emergency room decisions worldwide."
+tags: ["english", "health", "stroke treatment", "stroke recovery", "stroke symptoms", "blood clot removal surgery", "stroke prevention"]
 author: "Health Research Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-16-stroke-thrombectomy-in-medium-vessels-nejm-2026-redraws-the-line-en-featured.png
 lang: en
