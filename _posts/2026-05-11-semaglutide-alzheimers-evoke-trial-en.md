@@ -1,8 +1,8 @@
 ---
-title: "The Ozempic-Alzheimer's Trial That Failed — And What It Tells Us About the Limits of Biomarkers"
+title: "Can Ozempic Prevent Alzheimer's? The 3,800-Person Trial Failed — But There's a Twist"
 date: "2026-05-11"
-description: "The EVOKE and EVOKE+ Phase 3 trials (3,808 patients, The Lancet, November 2025) found that oral semaglutide did not slow Alzheimer's cognitive decline despite improving inflammatory biomarkers. Here's what the results mean — and what still might work."
-tags: ["Alzheimer's disease", "semaglutide", "GLP-1", "EVOKE trial", "dementia prevention", "clinical trial"]
+description: "The largest GLP-1 Alzheimer's trial ever conducted missed its primary endpoint. But one secondary signal keeps researchers hopeful. Here's what the data actually shows."
+tags: ["english", "health", "Ozempic Alzheimer", "dementia prevention", "Alzheimer treatment", "GLP-1 brain effects", "dementia drug"]
 author: "Health Research Desk"
 image: "https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-en-header.png"
 ---
