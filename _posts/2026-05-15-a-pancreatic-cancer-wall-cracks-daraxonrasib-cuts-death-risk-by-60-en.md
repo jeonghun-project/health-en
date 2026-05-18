@@ -1,8 +1,8 @@
 ---
-title: "A Pancreatic Cancer Wall Cracks - Daraxonrasib Cuts Death Risk by 60%"
+title: "Pancreatic Cancer Survival Just Doubled — The First Drug to Crack a 30-Year Wall"
 date: "2026-05-15"
-description: "A new oral RAS(ON) inhibitor doubled overall survival in advanced pancreatic cancer in NEJM 2026. Here is what the mechanism, the data, and the limits actually look like."
-tags: ["english", "global", "health", "pancreatic-cancer", "daraxonrasib", "RAS", "precision-medicine", "NEJM"]
+description: "A new targeted drug cut pancreatic cancer death risk by 60% in patients with RAS mutations. After 30 years of failure, what changed and what it means for treatment."
+tags: ["english", "health", "pancreatic cancer treatment", "pancreatic cancer survival rate", "pancreatic cancer new drug 2026", "cancer breakthrough"]
 author: "Health Research Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-15-a-pancreatic-cancer-wall-cracks-daraxonrasib-cuts-death-risk-by-60-en-featured.png
 lang: en
