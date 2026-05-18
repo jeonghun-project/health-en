@@ -1,8 +1,8 @@
 ---
-title: "Where You Live May Be Aging Your Brain — A 34-Country Study Just Changed the Conversation"
+title: "How Your Neighborhood Affects Your Brain Age — What 34 Countries Reveal"
 date: "2026-05-01"
-description: "A landmark Nature Medicine study of 18,701 people across 34 countries found that combined air pollution and social inequality can accelerate brain aging to the level of mild cognitive impairment and dementia."
-tags: ["english", "global", "health", "brain aging", "air pollution dementia", "exposome", "PM2.5 cognition", "dementia prevention", "Nature Medicine"]
+description: "Living near highways or in polluted areas may accelerate brain aging by up to 12 years. Here's what the largest environmental brain study found."
+tags: ["english", "health", "brain health", "air pollution and brain", "dementia risk", "environmental health", "aging prevention"]
 ---
 
 ![Environmental factors and brain aging — where you live shapes how your brain ages](https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-01-where-you-live-may-be-aging-your-brain-en-header.png)
