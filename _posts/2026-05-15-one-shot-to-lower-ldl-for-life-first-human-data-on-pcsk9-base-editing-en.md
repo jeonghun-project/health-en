@@ -1,8 +1,8 @@
 ---
-title: "One Shot to Lower LDL for Life? First Human Data on PCSK9 Base Editing"
+title: "One Injection to Lower Cholesterol Forever? First Human Results Are In"
 date: "2026-05-15"
-description: "Nature Medicine 2026: a single infusion of VERVE-102 cut LDL cholesterol by an average 53% (max 69%), with zero treatment-related serious adverse events in 14 patients. What it means, and what it doesn't."
-tags: ["english", "global", "health", "verve-102", "pcsk9", "base-editing", "cholesterol"]
+description: "A single gene-editing injection permanently lowered LDL cholesterol in early human trials. Could this replace daily statin pills? Here's what the first data shows."
+tags: ["english", "health", "lower cholesterol naturally", "cholesterol medication side effects", "gene therapy cholesterol", "high cholesterol treatment", "statin alternative"]
 author: "Health Research Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/health-en/main/assets/images/2026-05-15-one-shot-to-lower-ldl-for-life-first-human-data-on-pcsk9-base-editing-en-featured.png
 lang: en
